@@ -1,2 +1,4 @@
 Aiza Azeem
 24-ST 031
+Console.WriteLine("divide two variables");
+int x = Convert.ToInt32(Console.ReadLine());
